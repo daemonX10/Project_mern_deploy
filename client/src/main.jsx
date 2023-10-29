@@ -10,7 +10,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
      domain="dev-mmzpd5c2oxtfu6o2.us.auth0.com"
      clientId="7boPorMado7yT62luXLEmd88YoVDVLxy"
      authorizationParams={{
-      redirect_uri: "http://localhost:5173"
+       redirect_uri: "https://project-mern-deploy-silk.vercel.app"
      }}
      audience="http://localhost:8000"
      scope="openid profile email"
